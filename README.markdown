@@ -4,7 +4,7 @@ An extension for Sublime Text 2.
 
 It allow you to Insert Lorem Ipsum in the editor via menu items or keyboard shortcut.
 
-Just press the shortcut key (Alt+Command+l on OSX, Control+Alt+l on Windows/Linux) to add Lorem Ipsum text. Keep pressing to add more.
+Just press the shortcut key (Alt+Command+l on OSX, Control+Alt+l on Windows, Alt+Shift+l on Linux) to add Lorem Ipsum text. Keep pressing to add more.
 
 Alternatively, select how much text you want from the menu item.
 

@@ -1,0 +1,26 @@
+[
+
+  {
+    "caption": "LoremIpsum: (5) a bit",
+    "command": "lorem_ipsum",
+    "args": {"qty": 5 }
+  },
+
+  {
+    "caption": "LoremIpsum: (15) some",
+    "command": "lorem_ipsum",
+    "args": {"qty": 15 }
+  },
+
+  {
+    "caption": "LoremIpsum: (30) lots",
+    "command": "lorem_ipsum",
+    "args": {"qty": 30 }
+  },
+
+  {
+    "caption": "LoremIpsum: (200) stick shake",
+    "command": "lorem_ipsum",
+    "args": {"qty": 200 }
+  }
+]

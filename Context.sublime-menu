@@ -1,7 +1,6 @@
 [
     {
         "caption":"Lorem Ipsum...",
-        "command": "lorem_ipsum",
         "mnemonic": "LI",
         "children":
         [

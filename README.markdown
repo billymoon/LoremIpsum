@@ -2,8 +2,6 @@
 
 An extension for Sublime Text 2 and 3!
 
-_(Support for Sublime Text 3 is new, and barely tested - any feedback appreciated - see ST3 section below)_
-
 It allow you to Insert Lorem Ipsum in the editor via menu items or keyboard shortcut.
 
 Select how much text you want from the menu item in `Edit->Text->Lorem Ipsum` or on the right click menu in `Lorem Ipsum`.
@@ -37,18 +35,12 @@ Generate a dummy title for a blog, and a few paragraphs
 
 The easiest way to install this is with [Package Control](http://wbond.net/sublime\_packages/package\_control).
 
- * If you just went and installed Package Control, you probably need to restart Sublime Text 2 before doing this next bit.
+ * If you just went and installed Package Control, you probably need to restart Sublime Text before doing this next bit.
  * Bring up the Command Palette (Command+Shift+p on OS X, Control+Shift+p on Linux/Windows).
  * Select "Package Control: Install Package" (it'll take a few seconds)
  * Select LoremIpsum when the list appears.
 
 Package Control will automatically keep Git up to date with the latest version.
-
-### Manual Install for ST3
-
-1. Open the sublime text command pallete, and **Preferences: Browse Packages**
-2. Checout the ST3 branch of this repo in there
-3. Restart ST3
 
 Report bugs here, and I will do my best to repair them (or better still - make the fix, and send me a pull request).
 

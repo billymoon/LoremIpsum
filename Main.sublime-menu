@@ -9,9 +9,6 @@
                 [
                     {
                         "caption":"Lorem Ipsum...",
-                        // The mnemonic doesn't work and produces this warning:
-                        // "warning: mnemonic LI not found in menu caption Lorem Ipsum..."
-                        //"mnemonic": "LI",
                         "children":
                         [
                             {"command": "lorem_ipsum", "caption": "a bit", "args":{"qty":5}},

@@ -14,18 +14,16 @@ Alternatively, you can also specify the number of paragraphs, by writing a numbe
 
 Generate a dummy title for a blog, and a few paragraphs
 
-- Press the shortcut once, to generate a single line of lorem upsum, of about 10 characters
-- Move down to a newline, and type `5.60` and then press the keyboard shortcut for lorem ipsum
+- Press the shortcut once, to generate a single line of lorem upsum, of about 15 words
 
 ## Features
 
 1. Uses only words from [the original Lorem ipsum text](http://www.lipsum.com/)
 2. Randomly generates text from selection of words
-3. Always starts with `Lorem ipsum` for first paragraph, and capitalizes following paragraphs
+3. Often starts with `Lorem ipsum`
 4. Leaves the inserted text un-selected, so you can insert some more straight away (rapid tapping to get as much lorem as you want)
 5. Shortcut key, `Edit -> Text -> Lorem Ipsum...` sub-menu, and context menu activation
 6. Variable size of text from just `a bit` to more than you can shake a stick at!
-7. Specify how many paragraphs and words per paragraph you want (type a number before pressing the lorem ipsum keyboard shortcut)
 8. Works with multiple selection ranges
 9. Does not leave trailing spaces
 

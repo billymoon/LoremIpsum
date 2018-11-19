@@ -2,7 +2,7 @@
 
 An extension for Sublime Text 2 and 3!
 
-It allow you to Insert Lorem Ipsum in the editor via menu items or keyboard shortcut.
+It allows you to Insert Lorem Ipsum in the editor via menu items or keyboard shortcut.
 
 Select how much text you want from the menu item in `Edit->Text->Lorem Ipsum` or on the right click menu in `Lorem Ipsum`.
 
